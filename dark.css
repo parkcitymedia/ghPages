@@ -1,20 +1,22 @@
 body {
-  background-color: #242424;
+  background-color: #252534;
 }
 p {
-  color: #b0f442;
+  color: #458cc1;
+}
+h1 {
+  color: #465663;
 }
 #normalborder {
-  color: #b0f442;
-  background-color: #303030;
-  font-family: Century Gothic;
+  color: #458cc1;
+  background-color: #303040;
   border-style: solid;
-  border-width: 1px 0px 0px 3px;
-  padding: 5px;
-  border-color: #b0f442;
+  border-width: 2px 0px 0px 5px;
+  padding: 7px;
+  border-color: #2c9ff7;
 }
 #linkpurple {
-  color: #8d0cff;
+  color: #84b4d8;
   font-size: 14;
   font-family: monospace;
 }
