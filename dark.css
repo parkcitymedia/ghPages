@@ -1,6 +1,9 @@
 body {
   background-color: #242424;
 }
+p {
+  color: #b0f442;
+}
 #normalborder {
   color: #b0f442;
   background-color: #303030;
