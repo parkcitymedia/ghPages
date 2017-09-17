@@ -13,3 +13,8 @@ p {
   padding: 5px;
   border-color: #b0f442;
 }
+#linkpurple {
+  color: #8d0cff;
+  font-size: 14;
+  font-family: monospace;
+}
