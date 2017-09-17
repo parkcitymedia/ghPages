@@ -1,0 +1,13 @@
+body {
+  background-color: #242424;
+}
+#normalborder {
+  color: #b0f442;
+  background-color: #303030;
+  font-family: Century Gothic;
+  border-style: solid;
+  padding: 1px 0px 0px 3px;
+  border-width: 5px;
+  border-color: #b0f442;
+}
+///
