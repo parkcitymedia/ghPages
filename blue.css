@@ -1,0 +1,24 @@
+body {
+  background-color: #375e9e;
+}
+p {
+  color: #004c93;
+}
+h1 {
+  color: #004c93;
+}
+#normalborder {
+  color: #004c93;
+  background-color: #5492ad;
+  border-style: solid;
+  border-width: 2px 0px 0px 5px;
+  padding: 7px;
+  border-color: #dbedff;
+}
+#monolink1 {
+  color: #00b2ff;
+  font-size: 14;
+  font-family: monospace;
+  text-decoration:none;
+  font-weight: bolder;
+}
