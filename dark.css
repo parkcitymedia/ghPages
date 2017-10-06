@@ -30,8 +30,9 @@ h1 {
   z-index:1;
   overflow:auto;
 }
-
-
+.sidebar-menu-option {
+  
+}
 /*
 kidnapped from https://www.w3schools.com/w3css/4/w3.css
 .w3-sidebar{height:100%;width:200px;background-color:#fff;position:fixed!important;z-index:1;overflow:auto}
