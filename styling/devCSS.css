@@ -1,0 +1,24 @@
+.devbgtitle {
+	background-color:#54556E;
+	padding:5px;
+	font-family: Comfortaa;
+	font-size:20pt;
+}
+.devbgblock {
+	background-color:#40415A;
+	color:#FFFFFF;
+}
+.devtext1 {
+	color:#FFFFFF;
+}
+#devTitleText {
+	font-size:20pt;
+	font-family: Comfortaa;
+}
+
+/* everything under this is stuff im experimenting with */
+
+@font-face {
+    font-family: 'Comfortaa';
+    src: url('/styling/Comfortaa-Regular.ttf');
+}
