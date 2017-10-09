@@ -1,9 +1,12 @@
 /* this is mainly just for the devcraft title block */
-#devbgtitle {
+.devbgtitle {
 	background-color:#54556E;
-	padding: 15px;
 	font-family: Comfortaa;
 	font-size:17pt;
+	border-style: solid;
+	border-color: #54556E;
+	border-width: 3px;
+	padding: 7px;
 }
 .devbgblock {
 	padding:6px;
