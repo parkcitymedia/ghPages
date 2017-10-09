@@ -12,8 +12,12 @@
 	background-color:#40415A;
 	color:#FFFFFF;
 }
-.devtext1 {
+p, .devtext1 {
 	color:#FFFFFF;
+}
+a {
+	color: #ffffff;
+	font-family: Comfortaa;
 }
 #devTitleText {
 	font-size:20pt;
