@@ -29,9 +29,11 @@ a:hover {
 	font-family: Comfortaa;
 	font-size: 10.8pt;
 }
-#devTitleText {
-	font-size:20pt;
+#sidelink {
+	font-size:15pt;
 	font-family: Comfortaa;
+	text-align: left;
+	
 }
 
 /* everything under this is stuff im experimenting with */
