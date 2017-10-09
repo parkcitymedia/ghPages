@@ -1,4 +1,6 @@
 .devbgtitle {
+	border-style:solid;
+	border-width: 0px 0px 0px 0px;
 	background-color:#54556E;
 	padding:10px;
 	font-family: Comfortaa;
@@ -19,7 +21,3 @@
 
 /* everything under this is stuff im experimenting with */
 
-@font-face {
-    font-family: 'Comfortaa';
-    src: url('/styling/Comfortaa-Regular.ttf');
-}
