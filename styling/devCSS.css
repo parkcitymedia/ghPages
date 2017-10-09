@@ -6,6 +6,7 @@
 	border-style: solid;
 	border-color: #54556E;
 	border-width: 3px;
+	padding: 10px;
 }
 .devbgblock {
 	padding:6px;
@@ -13,7 +14,7 @@
 	color:#FFFFFF;
 	font-family: Comfortaa;
 }
-p {
+.p {
 	color:#FFFFFF;
 	font-family: Comfortaa;
 	font-size: 10pt;
