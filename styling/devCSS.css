@@ -1,4 +1,7 @@
+/* this is mainly just for the devcraft title block */
 .devbgtitle {
+	position: fixed;
+	top: 0;
 	border-style:solid;
 	border-width: 0px 0px 0px 0px;
 	background-color:#54556E;
