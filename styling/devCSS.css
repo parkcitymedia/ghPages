@@ -1,5 +1,5 @@
 /* this is mainly just for the devcraft title block */
-.devbgtitle {
+#devbgtitle {
 	background-color:#54556E;
 	padding: 15px;
 	font-family: Comfortaa;
