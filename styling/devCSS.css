@@ -30,6 +30,11 @@ a:hover {
 	font-family: Comfortaa;
 	font-size: 10.2pt;
 }
+a:active {
+	color: rgb(213, 81, 97);
+	font-family: Comfortaa;
+	font-size: 10.2pt;
+}
 #sidelink {
 	font-size:15pt;
 	font-family: Comfortaa;
