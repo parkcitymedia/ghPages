@@ -23,6 +23,11 @@ a {
 	font-family: Comfortaa;
 	font-size: 10pt;
 }
+a:hover {
+	color: #F99A66;
+	font-family: Comfortaa;
+	font-size: 10.8pt;
+}
 #devTitleText {
 	font-size:20pt;
 	font-family: Comfortaa;
