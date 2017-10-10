@@ -41,9 +41,10 @@ a:active {
 /* everything under this is stuff im experimenting with */
 
 .centerThis {
-		height: 10em;
+	height: 10em;
 	position: relative; 
-	margin: 0;
+	margin-top:auto;
+	margin-bottom:auto;
 	position: absolute;
 	top: 50%;
 	transform: translate(0, -50%);
