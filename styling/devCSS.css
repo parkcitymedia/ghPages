@@ -1,4 +1,7 @@
 /* this is mainly just for the devcraft title block */
+#body {
+	background-color:rgb(64, 65, 90);
+}
 .devbgtitle {
 	background-color:#54556E;
 	font-family: Comfortaa;
