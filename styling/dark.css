@@ -32,7 +32,7 @@
     display: inline-block;
     font-size: 16px;
 }
-sideButton:hover {
+.sideButton:hover {
   text-decoration:none;
   border-style: solid;
   border-color: #84b4d8;
