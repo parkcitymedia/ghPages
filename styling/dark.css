@@ -24,6 +24,8 @@
 }
 .sideButton {
   text-decoration:none;
+   border-style: solid;
+  border-color: #84b4d8;
     background-color: #458cc1; 
     color: #84b4d8;
     padding: 15px 32px;
