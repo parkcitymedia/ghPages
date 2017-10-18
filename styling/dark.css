@@ -3,7 +3,7 @@ p {
   color: #458cc1;
 }
 h1 {
-  color: #465663;
+  color: #03728C;
 }
 #normalborder {
   color: #458cc1;
@@ -28,9 +28,13 @@ h1 {
   z-index:1;
   overflow:auto;
 }
+.transitionFade {
+  -webkit-transition-duration: 0.27s; /* for safari loosers */
+  transition-duration: 0.27s;
+}
 .sideButton {
     background-color: #458cc1; 
-    border: none;
+    border-radius: 0px 3px 0px 0px;
     color: #84b4d8;
     padding: 15px 32px;
     text-align: center;
@@ -38,12 +42,5 @@ h1 {
     display: inline-block;
     font-size: 16px;
 }
-.sidebar-menu-option {
-  
+sideButton:hover {
 }
-/*
-kidnapped from https://www.w3schools.com/w3css/4/w3.css
-.w3-sidebar{height:100%;width:200px;background-color:#fff;position:fixed!important;z-index:1;overflow:auto}
-.w3-bar-block .w3-dropdown-hover,.w3-bar-block .w3-dropdown-click{width:100%}
-.w3-select{padding:9px 0;width:100%;border:none;border-bottom:1px solid #ccc}
-*/
