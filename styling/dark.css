@@ -30,6 +30,16 @@ h1 {
   z-index:1;
   overflow:auto;
 }
+.sideButton {
+    background-color: #458cc1; 
+    border: none;
+    color: #84b4d8;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
 .sidebar-menu-option {
   
 }
