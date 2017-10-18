@@ -1,4 +1,8 @@
 
+a {
+  color: white;
+  text-decoration: none;
+}
 #normalText0 {
   color: #458CC1;
   font-family: Comfortaa;
@@ -23,16 +27,15 @@
   transition-duration: 0.27s;
 }
 .sideButton {
-  text-decoration:none;
    border-style: solid;
-  border-color: #84b4d8;
-    background-color: #458cc1; 
-    color: #84b4d8;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+   border-color: #84b4d8;
+   background-color: #84b4d8; 
+   color: #84b4d8;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
 }
 .sideButton:hover {
   text-decoration:none;
